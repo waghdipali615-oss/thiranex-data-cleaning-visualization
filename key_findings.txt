@@ -1,0 +1,17 @@
+EXPLORATORY DATA ANALYSIS - KEY FINDINGS
+========================================
+Cleaned records: 520
+Total sales: 41,041,774.16
+Average sales per order: 78,926.49
+Top product by sales: Laptop (23,879,119.16)
+Top region by sales: Central (10,631,274.22)
+Number of product categories: 2
+Date range: 2025-01-01 to 2025-09-27
+
+Interpretation:
+- The product with the highest total sales may be a priority for inventory planning.
+- Regional totals can help compare sales performance between regions.
+- The monthly trend shows how sales change over time.
+- The distribution chart helps identify typical order values and unusually large values.
+
+Note: This is a practice dataset created for this project. Results are illustrative and are not real company data.

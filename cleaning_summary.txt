@@ -1,0 +1,16 @@
+DATA CLEANING SUMMARY
+=====================
+Rows in raw file: 527
+Exact duplicate rows removed: 7
+Missing cells before cleaning: 53
+Rows in cleaned file: 520
+Missing cells after cleaning: 0
+Duplicate rows after cleaning: 0
+
+Methods used:
+- Standardized text capitalization and whitespace
+- Converted date and numeric columns to correct types
+- Removed exact duplicate rows
+- Replaced invalid quantity, price, and discount values with missing values
+- Filled categorical missing values with mode and numeric values with median
+- Recalculated Sales = Quantity x Unit_Price

@@ -1,0 +1,528 @@
+Order_ID,Order_Date,Product,Category,Region,Customer_Segment,Quantity,Unit_Price,Sales,Discount
+ORD-10000,2025-04-27,Laptop,Electronics,Central,Retail,7.0,63808.13,446656.91,0.15
+ORD-10001,2025-07-18,Phone,Electronics,West,Enterprise,1.0,31995.23,31995.23,0.15
+ORD-10002,2025-05-16,Monitor,Electronics,South,Retail,2.0,12313.95,24627.89,0.2
+ORD-10003,2025-05-28,Keyboard,Accessories,East,Small Business,6.0,1645.24,9871.46,0.05
+ORD-10004,2025-08-20,Laptop,Electronics,Central,Retail,5.0,56494.44,282472.18,0.15
+ORD-10005,2025-01-19,Laptop,Electronics,Central,Small Business,7.0,62163.26,435142.79,0.2
+ORD-10006,2025-04-09,Keyboard,Accessories,East,Small Business,7.0,1362.59,9538.11,0.0
+ORD-10007,2025-09-07,Monitor,Electronics,West,Small Business,2.0,13186.43,26372.87,0.2
+ORD-10008,2025-01-21,Headphones,Accessories,East,Enterprise,3.0,2114.5,6343.51,0.0
+ORD-10009,2025-03-31,Headphones,Accessories,South,Small Business,2.0,2183.97,4367.93,0.15
+ORD-10010,2025-06-20,Mouse,Accessories,West,Retail,4.0,769.86,3079.45,0.05
+ORD-10011,2025-08-16,Keyboard,Accessories,South,Enterprise,7.0,1637.14,11460.01,0.05
+ORD-10012,2025-08-13,Phone,Electronics,North,Enterprise,6.0,24973.92,149843.53,0.0
+ORD-10013,2025-05-08,Keyboard,Accessories,West,Retail,7.0,1574.18,11019.28,0.15
+ORD-10014,2025-01-11,Monitor,Electronics,North,Retail,4.0,12757.78,51031.12,0.0
+ORD-10015,2025-08-19,Headphones,Accessories,East,Retail,6.0,2180.92,13085.54,0.15
+ORD-10016,2025-01-25,Monitor,Electronics,East,Enterprise,6.0,12700.92,76205.54,0.05
+ORD-10017,2025-09-23,Monitor,Electronics,South,Retail,1.0,12262.69,12262.69,0.1
+ORD-10018,2025-08-10,Mouse,Accessories,North,Enterprise,7.0,644.13,4508.89,0.05
+ORD-10019,2025-02-04,Mouse,Accessories,East,Small Business,3.0,734.0,2202.01,
+ORD-10020,2025-04-23,Mouse,Accessories,Central,Retail,6.0,,4082.05,0.0
+ORD-10021,2025-07-28,Headphones,Accessories,West,Enterprise,999.0,1929.43,1929.43,
+ORD-10022,2025-09-11,Keyboard,Accessories,North,Small Business,2.0,1500.47,3000.94,0.15
+ORD-10023,2025-03-06,Headphones,Accessories,South,Enterprise,4.0,2121.47,8485.9,0.15
+ORD-10024,2025-04-03,Monitor,Electronics,North,Small Business,3.0,10953.69,32861.06,0.2
+ORD-10025,2025-05-04,Headphones,Accessories,South,Enterprise,8.0,2331.81,18654.45,0.2
+ORD-10026,2025-08-02,Phone,Electronics,East,Enterprise,7.0,29821.88,208753.14,0.05
+ORD-10027,2025-02-04,Laptop,Electronics,East,Enterprise,1.0,72850.75,72850.75,0.05
+ORD-10028,2025-05-28,Keyboard,Accessories,North,Small Business,3.0,1535.65,4606.95,0.2
+ORD-10029,2025-06-29,Laptop,Electronics,East,Retail,7.0,69279.53,484956.69,0.15
+ORD-10030,2025-06-19,Laptop,Electronics,North,Enterprise,5.0,67922.01,339610.04,0.1
+ORD-10031,2025-02-20,Keyboard,Accessories,South,Small Business,1.0,1497.3,1497.3,0.0
+ORD-10032,2025-08-03,Keyboard,Accessories,North,Retail,1.0,1539.44,1539.44,0.2
+ORD-10033,2025-06-15,Mouse,Accessories,East,Retail,5.0,667.84,3339.21,0.0
+ORD-10034,2025-05-07,Laptop,Electronics,West,Retail,8.0,64654.92,517239.34,0.0
+ORD-10035,2025-04-30,Phone,Electronics,Central,Retail,4.0,27921.94,111687.76,0.1
+ORD-10036,2025-09-15,Monitor,Electronics,South,Small Business,4.0,11626.16,46504.63,0.1
+ORD-10037,2025-04-09,Mouse,Accessories,Central,Retail,4.0,599.54,2398.15,0.2
+ORD-10038,2025-03-27,Monitor,Electronics,North,Small Business,2.0,12702.64,25405.27,0.15
+ORD-10039,2025-07-17,Laptop,Electronics,West,Enterprise,3.0,68108.74,204326.22,0.15
+ORD-10040,2025-09-21,Phone,Electronics,South,Retail,1.0,31494.5,31494.5,0.0
+ORD-10041,2025-03-25,Laptop,Electronics,Central,Small Business,5.0,62482.98,312414.92,0.2
+ORD-10042,2025-06-21,Mouse,Accessories,South,Small Business,3.0,795.11,2385.33,0.1
+ORD-10043,2025-02-18,Mouse,Accessories,North,Small Business,3.0,791.57,2374.71,0.0
+ORD-10044,2025-02-10,Phone,Electronics,Central,Retail,4.0,32135.95,128543.82,0.15
+ORD-10045,2025-02-01,Mouse,Accessories,East,Small Business,8.0,782.62,6260.99,0.05
+ORD-10046,2025-04-21,Laptop,Electronics,South,Enterprise,7.0,68152.39,477066.76,0.0
+ORD-10047,2025-01-02,Keyboard,Accessories,Central,Enterprise,6.0,1393.11,8358.64,0.05
+ORD-10048,2025-08-29,Laptop,Electronics,North,Enterprise,1.0,71456.7,71456.7,0.0
+ORD-10049,2025-01-13,Headphones,Accessories,North,Retail,5.0,2447.21,12236.05,0.05
+ORD-10050,2025-05-15,Mouse,Accessories,East,Small Business,7.0,799.08,5593.58,0.0
+ORD-10051,2025-03-17,Mouse,Accessories,North,Retail,1.0,643.23,643.23,0.15
+ORD-10052,2025-09-08,Mouse,Accessories,West,Enterprise,1.0,701.33,701.33,0.1
+ORD-10053,2025-01-07,Headphones,Accessories,West,Retail,2.0,2400.72,4801.44,0.15
+ORD-10054,2025-06-03,Keyboard,Accessories,Central,Retail,2.0,1330.69,2661.38,0.05
+ORD-10055,2025-05-18,Mouse,Accessories,West,Retail,3.0,697.6,2092.81,0.2
+ORD-10056,2025-05-15,Monitor,Electronics,North,Small Business,3.0,,42279.09,0.1
+ORD-10057,2025-07-15,Laptop,Electronics,North,Enterprise,6.0,57315.0,343890.0,0.1
+ORD-10058,2025-02-18,Laptop,Electronics,Central,Enterprise,8.0,66872.83,534982.64,0.2
+ORD-10059,2025-08-17,Headphones,Accessories,North,Small Business,4.0,2387.94,9551.78,0.0
+ORD-10060,2025-05-06,Phone,Electronics,South,Small Business,7.0,30493.26,213452.84,0.1
+ORD-10061,2025-07-23,Keyboard,Accessories,West,Retail,5.0,1665.48,8327.41,0.1
+ORD-10062,2025-01-31,Laptop,Electronics,West,Enterprise,3.0,63554.7,190664.1,0.2
+ORD-10063,2025-03-14,Phone,Electronics,South,Enterprise,4.0,25881.85,103527.41,
+ORD-10064,2025-08-27,Mouse,Accessories,North,Small Business,7.0,617.11,4319.76,0.1
+ORD-10065,2025-03-28,Headphones,Accessories,South,Enterprise,2.0,2414.28,4828.56,0.0
+ORD-10066,2025-02-12,Mouse,Accessories,South,Small Business,8.0,629.76,5038.09,0.0
+ORD-10067,2025-07-11,Headphones,Accessories,North,Retail,1.0,1883.96,1883.96,
+ORD-10068,2025-05-20,Keyboard,Accessories,West,Enterprise,1.0,1541.01,1541.01,0.05
+ORD-10069,2025-07-18,Keyboard,Accessories,Central,Enterprise,3.0,1502.04,4506.11,0.2
+ORD-10070,2025-08-29,Monitor,Electronics,South,Retail,1.0,11305.62,11305.62,0.05
+ORD-10071,2025-03-18,Monitor,Electronics,North,Retail,5.0,12185.98,60929.92,0.05
+ORD-10072,2025-01-26,Mouse,Accessories,Central,Retail,5.0,616.35,3081.76,0.0
+ORD-10073,2025-08-15,Headphones,Accessories,Central,Enterprise,8.0,1935.41,15483.32,0.2
+ORD-10074,2025-06-06,Phone,Electronics,West,Small Business,8.0,30537.02,244296.14,0.15
+ORD-10075,2025-08-12,Monitor,Electronics,East,Retail,7.0,11129.57,77907.0,0.1
+ORD-10076,2025-07-31,Mouse,Accessories,South,Enterprise,7.0,692.19,4845.32,0.15
+ORD-10077,2025-04-28,Phone,Electronics,East,Retail,3.0,999999.0,74922.16,0.1
+ORD-10078,2025-05-17,Monitor,Electronics,South,Enterprise,2.0,12003.17,24006.34,0.05
+ORD-10079,2025-03-05,Headphones,Accessories,South,Enterprise,4.0,2322.59,9290.36,0.2
+ORD-10080,2025-07-27,Keyboard,Accessories,South,Small Business,8.0,1491.41,11931.28,0.1
+ORD-10081,2025-02-24,Mouse,Accessories,Central,Small Business,7.0,732.04,5124.3,0.1
+ORD-10082,2025-02-17,Keyboard,Accessories,West,Retail,6.0,1404.67,8428.02,0.05
+ORD-10083,2025-09-06,Monitor,Electronics,North,Enterprise,6.0,13852.7,83116.18,0.15
+ORD-10084,2025-06-06,Monitor,Electronics,North,Small Business,1.0,13346.43,13346.43,0.2
+ORD-10085,2025-02-15,Keyboard,Accessories,Central,Small Business,2.0,1706.5,3412.99,0.1
+ORD-10086,2025-09-09,Headphones,Accessories,Central,Retail,7.0,2394.78,16763.43,0.05
+ORD-10087,2025-05-21,Keyboard,Accessories,West,Retail,5.0,1317.77,6588.86,0.0
+ORD-10088,2025-05-09,Laptop,Electronics,East,Enterprise,5.0,66412.4,332061.98,0.1
+ORD-10089,2025-05-20,Keyboard,Accessories,East,Retail,7.0,1634.66,11442.62,0.1
+ORD-10090,2025-08-01,Laptop,Electronics,North,Enterprise,8.0,57584.8,460678.44,0.0
+ORD-10091,2025-09-06,Headphones,Accessories,West,Retail,,2146.28,12877.69,0.15
+ORD-10092,2025-08-09,Keyboard,Accessories,West,Small Business,3.0,1679.26,5037.79,0.05
+ORD-10093,2025-03-26,Keyboard,Accessories,,Enterprise,3.0,1416.5,4249.49,0.0
+ORD-10094,2025-07-19,Laptop,Electronics,South,Retail,8.0,63789.13,510313.03,0.15
+ORD-10095,2025-04-08,Phone,Electronics,West,Small Business,5.0,31663.58,158317.88,0.1
+ORD-10096,2025-01-02,Laptop,Electronics,West,Enterprise,4.0,74489.32,297957.26,0.2
+ORD-10097,2025-08-26,Headphones,Accessories,West,Retail,1.0,2431.35,2431.35,0.0
+ORD-10098,2025-05-28,Headphones,Accessories,North,Retail,5.0,2322.82,11614.12,0.1
+ORD-10099,2025-09-19,Keyboard,Accessories,East,,7.0,1407.91,9855.38,0.1
+ORD-10100,2025-07-19,Laptop,Electronics,West,Small Business,3.0,73159.62,219478.85,0.0
+ORD-10101,2025-07-04,Headphones,Accessories,South,Enterprise,8.0,2450.27,19602.18,0.2
+ORD-10102,2025-01-07,Laptop,Electronics,,Retail,1.0,74732.54,74732.54,0.15
+ORD-10103,2025-08-22,Monitor,Electronics,North,Retail,1.0,13988.88,13988.88,0.05
+ORD-10104,2025-08-07,Headphones,Accessories,North,Retail,2.0,2382.67,4765.33,0.2
+ORD-10105,2025-01-02,Phone,Electronics,North,Retail,6.0,24103.77,144622.6,0.0
+ORD-10106,2025-09-18,Keyboard,Accessories,South,Retail,5.0,1635.67,8178.33,0.2
+ORD-10107,2025-09-19,Phone,Electronics,Central,Retail,1.0,30528.1,30528.1,
+ORD-10108,2025-05-01,Mouse,Accessories,North,Small Business,6.0,770.98,4625.86,0.05
+ORD-10109,2025-05-26,Laptop,Electronics,West,Small Business,1.0,65088.35,65088.35,0.15
+ORD-10110,2025-08-08,Laptop,Electronics,West,Retail,7.0,58276.65,407936.57,0.0
+ORD-10111,2025-05-22,Laptop,Electronics,Central,Enterprise,3.0,69093.14,207279.42,0.15
+ORD-10112,2025-01-02,Monitor,Electronics,North,Retail,1.0,12936.16,12936.16,0.2
+ORD-10113,2025-04-11,Headphones,Accessories,North,Enterprise,6.0,1984.26,11905.59,0.0
+ORD-10114,2025-05-27,Headphones,Accessories,West,Retail,8.0,2172.65,17381.2,0.15
+ORD-10115,2025-03-09,Mouse,Accessories,Central,Small Business,5.0,625.48,3127.39,0.05
+ORD-10116,2025-03-11,Headphones,Accessories,West,Small Business,5.0,2331.85,11659.26,0.2
+ORD-10117,2025-07-06,Laptop,Electronics,East,Enterprise,2.0,65162.88,130325.76,0.1
+ORD-10118,2025-09-13,Laptop,Electronics,South,Retail,1.0,57864.84,57864.84,0.05
+ORD-10119,2025-04-19,Monitor,Electronics,West,Enterprise,4.0,12916.2,51664.81,0.1
+ORD-10120,2025-09-14,Laptop,Electronics,East,Small Business,4.0,59493.76,237975.03,0.05
+ORD-10121,2025-05-09,Mouse,Accessories,East,Retail,1.0,682.86,682.86,0.05
+ORD-10122,2025-06-09,Laptop,Electronics,West,Small Business,5.0,66282.55,331412.76,
+ORD-10123,2025-03-08,Monitor,Electronics,West,Small Business,6.0,11810.8,70864.82,0.1
+ORD-10124,2025-05-23,Phone,Electronics,South,Enterprise,4.0,,116234.02,0.1
+ORD-10125,2025-02-04,Keyboard,Accessories,Central,Enterprise,6.0,1673.88,10043.29,0.1
+ORD-10126,2025-03-08,Keyboard,Accessories,South,Small Business,5.0,1634.94,8174.71,0.2
+ORD-10127,2025-01-16,Headphones,Accessories,North,Enterprise,4.0,1946.47,7785.86,0.2
+ORD-10128,2025-06-02,Keyboard,Accessories,South,Small Business,1.0,1401.28,1401.28,0.0
+ORD-10129,2025-09-01,Keyboard,Accessories,North,Small Business,3.0,1609.21,4827.63,0.2
+ORD-10130,2025-07-11,Keyboard,Accessories,North,Retail,7.0,1442.52,10097.62,0.15
+ORD-10131,2025-05-16,Keyboard,Accessories,Central,Retail,1.0,1439.21,1439.21,0.2
+ORD-10132,2025-07-28,Headphones,Accessories,West,Retail,7.0,2075.23,14526.64,0.15
+ORD-10133,2025-04-01,Keyboard,Accessories,North,Enterprise,4.0,1563.4,6253.6,0.05
+ORD-10134,2025-07-12,Keyboard,Accessories,North,Small Business,5.0,1348.69,6743.44,0.2
+ORD-10135,2025-02-24,Mouse,Accessories,Central,Enterprise,8.0,711.75,5694.03,0.2
+ORD-10136,2025-08-16,Monitor,Electronics,,Retail,2.0,12305.92,24611.84,0.0
+ORD-10137,2025-05-10,Mouse,Accessories,East,Enterprise,7.0,686.09,4802.66,0.0
+ORD-10138,2025-09-11,Phone,Electronics,North,Small Business,2.0,31419.67,62839.34,0.05
+ORD-10139,2025-09-26,Phone,Electronics,East,Enterprise,3.0,27917.66,83752.98,0.1
+ORD-10140,2025-08-15,Laptop,Electronics,Central,,1.0,60001.52,60001.52,0.15
+ORD-10141,2025-08-03,Monitor,Electronics,West,Small Business,6.0,13138.26,78829.57,0.0
+ORD-10142,2025-08-26,Keyboard,Accessories,South,Enterprise,3.0,1517.79,4553.36,0.2
+ORD-10143,2025-07-06,Phone,Electronics,Central,,4.0,30256.47,121025.89,0.1
+ORD-10144,2025-02-02,Headphones,Accessories,Central,Small Business,8.0,2257.5,18060.01,0.05
+ORD-10145,2025-05-20,Monitor,Electronics,North,Retail,4.0,12617.79,50471.17,0.05
+ORD-10146,2025-04-16,Mouse,Accessories,North,Retail,8.0,727.47,5819.8,0.05
+ORD-10147,2025-06-14,Phone,Electronics,Central,Enterprise,2.0,24008.51,48017.03,0.1
+ORD-10148,2025-06-02,Headphones,Accessories,North,Small Business,3.0,2264.99,6794.98,0.05
+ORD-10149,2025-07-12,Phone,Electronics,Central,Enterprise,6.0,29123.67,174742.0,0.15
+ORD-10150,2025-06-25,Mouse,Accessories,Central,Small Business,4.0,754.9,3019.6,0.15
+ORD-10151,2025-05-05,Phone,Electronics,Central,Retail,8.0,30368.84,242950.75,0.0
+ORD-10152,2025-06-25,Monitor,Electronics,East,Enterprise,6.0,12275.33,73652.0,0.15
+ORD-10153,2025-02-11,Headphones,Accessories,South,Enterprise,8.0,2519.82,20158.57,0.15
+ORD-10154,2025-01-02,Mouse,Accessories,North,Retail,6.0,667.76,4006.58,1.5
+ORD-10155,2025-08-25,Monitor,Electronics,Central,Enterprise,7.0,12461.37,87229.62,0.1
+ORD-10156,2025-01-20,Phone,Electronics,West,Small Business,8.0,27257.24,218057.91,0.0
+ORD-10157,2025-03-13,Phone,Electronics,Central,Small Business,5.0,30537.3,152686.51,0.2
+ORD-10158,2025-09-15,Phone,Electronics,North,Small Business,1.0,26930.7,26930.7,0.0
+ORD-10159,2025-06-27,Mouse,Accessories,West,Retail,6.0,744.78,4468.71,0.2
+ORD-10160,2025-04-14,Keyboard,Accessories,North,Enterprise,6.0,1635.39,9812.35,0.05
+ORD-10161,2025-04-30,Laptop,Electronics,North,Enterprise,5.0,71983.44,359917.22,0.1
+ORD-10162,2025-07-25,Phone,Electronics,East,Enterprise,6.0,24048.7,144292.21,0.2
+ORD-10163,2025-04-23,Monitor,Electronics,Central,Small Business,6.0,11516.22,69097.31,0.05
+ORD-10164,2025-07-11,Keyboard,Accessories,East,Small Business,7.0,1409.52,9866.67,0.05
+ORD-10165,2025-08-22,Laptop,Electronics,North,Enterprise,3.0,72537.87,217613.62,0.0
+ORD-10166,2025-04-25,Keyboard,Accessories,Central,Small Business,3.0,1597.94,4793.81,0.2
+ORD-10167,2025-05-25,Monitor,Electronics,North,Retail,3.0,12154.78,36464.35,0.1
+ORD-10168,2025-07-18,Phone,Electronics,East,Retail,8.0,29687.4,237499.2,0.05
+ORD-10169,2025-04-03,Headphones,Accessories,North,Retail,8.0,2197.96,17583.72,0.05
+ORD-10170,2025-05-30,Laptop,Electronics,North,Retail,1.0,59188.59,59188.59,0.1
+ORD-10171,2025-05-02,Mouse,Accessories,East,Enterprise,6.0,667.09,4002.55,0.2
+ORD-10172,2025-09-22,Mouse,Accessories,South,Small Business,7.0,708.58,4960.06,0.2
+ORD-10173,2025-08-29,Headphones,Accessories,Central,Retail,2.0,2084.73,4169.45,
+ORD-10174,2025-06-17,Mouse,Accessories,West,Retail,6.0,719.06,4314.34,0.05
+ORD-10175,2025-02-17,Mouse,Accessories,North,Small Business,2.0,662.72,1325.45,0.2
+ORD-10176,2025-03-09,Laptop,Electronics,West,,3.0,66199.04,198597.13,0.15
+ORD-10177,2025-09-14,Monitor,Electronics,Central,Small Business,4.0,12410.96,49643.86,0.15
+ORD-10178,2025-03-14,Phone,Electronics,West,Small Business,7.0,31381.45,219670.17,
+ORD-10179,2025-04-26,Phone,Electronics,West,Retail,5.0,24655.91,123279.55,0.2
+ORD-10180,2025-02-07,Keyboard,Accessories,North,,,1469.84,7349.19,0.2
+ORD-10181,2025-01-14,Keyboard,Accessories,South,Small Business,1.0,1293.49,1293.49,0.0
+ORD-10182,2025-08-02,Mouse,Accessories,South,Retail,4.0,703.38,2813.51,0.0
+ORD-10183,2025-07-29,Mouse,Accessories,North,Enterprise,1.0,675.75,675.75,0.15
+ORD-10184,2025-05-13,Headphones,Accessories,,Retail,2.0,2069.37,4138.73,0.1
+ORD-10185,2025-04-22,Laptop,Electronics,Central,Retail,1.0,57435.37,57435.37,0.0
+ORD-10186,2025-01-08,Laptop,Electronics,South,Small Business,5.0,64795.29,323976.45,0.1
+ORD-10187,2025-05-24,Monitor,Electronics,South,Retail,7.0,13779.51,96456.6,0.05
+ORD-10188,2025-08-22,Monitor,Electronics,West,Small Business,2.0,12424.49,24848.98,0.05
+ORD-10189,2025-05-11,Keyboard,Accessories,North,Small Business,3.0,1693.67,5081.02,0.1
+ORD-10190,2025-06-12,Mouse,Accessories,North,Retail,6.0,626.6,3759.57,0.0
+ORD-10191,2025-09-09,Laptop,Electronics,North,Enterprise,8.0,55430.57,443444.53,0.0
+ORD-10192,2025-05-09,Laptop,Electronics,,Retail,1.0,67342.91,67342.91,0.1
+ORD-10193,2025-05-14,Phone,Electronics,North,Retail,5.0,30935.26,154676.28,0.2
+ORD-10194,2025-08-31,Monitor,Electronics,West,Enterprise,5.0,11235.29,56176.44,0.2
+ORD-10195,2025-05-31,Phone,Electronics,East,,3.0,31517.87,94553.6,0.15
+ORD-10196,2025-07-18,Mouse,Accessories,Central,Retail,8.0,670.92,5367.38,0.05
+ORD-10197,2025-03-22,Monitor,Electronics,South,Small Business,7.0,12877.75,90144.27,0.1
+ORD-10198,2025-08-21,Monitor,Electronics,North,Enterprise,3.0,10917.91,32753.72,0.05
+ORD-10199,2025-06-27,Headphones,Accessories,,,1.0,1979.22,1979.22,0.15
+ORD-10200,2025-02-03,Phone,Electronics,Central,Retail,6.0,26464.09,158784.52,0.1
+ORD-10201,2025-06-30,Phone,Electronics,West,Retail,2.0,25007.24,50014.47,0.0
+ORD-10202,2025-03-13,Keyboard,Accessories,North,Enterprise,5.0,1721.3,8606.49,0.0
+ORD-10203,2025-04-15,Monitor,Electronics,North,Small Business,8.0,12817.4,102539.17,0.2
+ORD-10204,2025-02-14,Laptop,Electronics,,Retail,8.0,65705.91,525647.26,0.05
+ORD-10205,2025-02-05,Keyboard,Accessories,South,Small Business,1.0,1542.56,1542.56,0.15
+ORD-10206,2025-01-15,Mouse,Accessories,East,Retail,7.0,598.81,4191.7,0.05
+ORD-10207,2025-06-17,Mouse,Accessories,West,Retail,7.0,648.27,4537.89,0.1
+ORD-10208,2025-05-24,Monitor,Electronics,West,Enterprise,4.0,13166.08,52664.31,0.1
+ORD-10209,2025-02-10,Phone,Electronics,East,Enterprise,7.0,32060.7,224424.92,0.1
+ORD-10210,2025-04-07,Mouse,Accessories,East,Small Business,1.0,762.17,762.17,0.1
+ORD-10211,2025-06-27,Mouse,Accessories,South,Retail,1.0,781.83,781.83,0.15
+ORD-10212,2025-03-13,Headphones,Accessories,North,Enterprise,2.0,2504.62,5009.25,0.0
+ORD-10213,2025-03-07,Mouse,Accessories,South,Small Business,7.0,786.64,5506.5,0.1
+ORD-10214,2025-06-24,Mouse,Accessories,South,Small Business,6.0,779.46,4676.74,0.1
+ORD-10215,2025-05-25,Laptop,Electronics,West,Enterprise,6.0,69507.15,417042.91,0.1
+ORD-10216,2025-07-08,Headphones,Accessories,Central,,1.0,2466.62,2466.62,0.15
+ORD-10217,2025-04-27,Monitor,Electronics,West,Small Business,1.0,11391.49,11391.49,
+ORD-10218,2025-08-06,Phone,Electronics,West,Enterprise,8.0,26968.02,215744.12,0.2
+ORD-10219,2025-04-04,Monitor,Electronics,West,Small Business,4.0,11821.75,47286.99,0.1
+ORD-10220,2025-06-05,Headphones,Accessories,Central,Small Business,4.0,2267.17,9068.69,0.1
+ORD-10221,2025-04-08,Laptop,Electronics,South,Enterprise,2.0,62605.52,125211.03,0.0
+ORD-10222,2025-01-13,Phone,Electronics,South,Retail,2.0,29550.32,59100.64,0.2
+ORD-10223,2025-05-08,Keyboard,Accessories,West,Small Business,2.0,1319.52,2639.03,0.2
+ORD-10224,2025-09-21,Headphones,Accessories,North,Small Business,3.0,2003.38,6010.13,0.1
+ORD-10225,2025-02-04,Laptop,Electronics,North,Retail,4.0,60309.08,241236.31,0.1
+ORD-10226,2025-07-01,Laptop,Electronics,East,Enterprise,8.0,67974.12,543793.0,0.0
+ORD-10227,2025-03-26,Phone,Electronics,West,Retail,3.0,26276.1,78828.3,0.2
+ORD-10228,2025-06-15,Keyboard,Accessories,Central,Small Business,8.0,1718.06,13744.45,0.2
+ORD-10229,2025-09-12,Monitor,Electronics,South,Retail,1.0,11141.73,11141.73,0.1
+ORD-10230,2025-07-20,Headphones,Accessories, north ,Small Business,1.0,2428.23,2428.23,0.1
+ORD-10231,2025-05-03,Monitor,Electronics,North,Retail,2.0,11574.71,23149.42,0.2
+ORD-10232,2025-07-19,Headphones,Accessories,South,Enterprise,,2355.19,11775.93,0.05
+ORD-10233,2025-01-09,Mouse,Accessories,West,Retail,4.0,754.6,3018.41,0.05
+ORD-10234,2025-03-04,Monitor,Electronics,Central,Enterprise,8.0,11077.46,88619.66,0.0
+ORD-10235,2025-06-16,Headphones,Accessories,North,Small Business,3.0,2428.68,7286.03,0.1
+ORD-10236,2025-08-26,Laptop,Electronics,West,Retail,4.0,60032.55,240130.2,0.2
+ORD-10237,2025-05-25,Monitor,Electronics,,Enterprise,7.0,11897.46,83282.21,0.05
+ORD-10238,2025-01-10,Phone,Electronics,Central,Retail,2.0,25154.53,50309.07,0.2
+ORD-10239,2025-03-18,Laptop,Electronics,East,Small Business,7.0,65344.4,457410.8,0.1
+ORD-10240,2025-04-08,Headphones,Accessories,North,Small Business,5.0,2156.81,10784.06,0.0
+ORD-10241,2025-08-14,Phone,Electronics,Central,Retail,8.0,27849.06,222792.47,0.0
+ORD-10242,2025-02-14,Headphones,Accessories,South,Enterprise,5.0,2007.09,10035.47,0.0
+ORD-10243,2025-01-01,Headphones,Accessories,South,Enterprise,1.0,2475.12,2475.12,0.15
+ORD-10244,2025-05-23,Laptop,Electronics,East,Small Business,4.0,63058.8,252235.2,0.0
+ORD-10245,2025-08-09,Mouse,Accessories,West,Small Business,8.0,766.84,6134.76,0.1
+ORD-10246,2025-07-04,Mouse,Accessories,South,Small Business,2.0,788.34,1576.68,0.0
+ORD-10247,2025-06-27,Mouse,Accessories,West,Retail,3.0,761.84,2285.51,0.15
+ORD-10248,2025-02-26,Monitor,Electronics,Central,Small Business,7.0,11419.83,79938.81,0.1
+ORD-10249,2025-05-30,Phone,Electronics,Central,Retail,6.0,23819.39,142916.36,0.05
+ORD-10250,2025-08-04,Mouse,Accessories,North,Small Business,1.0,691.24,691.24,0.0
+ORD-10251,2025-02-11,Keyboard,Accessories,Central,Small Business,6.0,1451.82,8710.9,0.05
+ORD-10252,2025-03-23,Headphones,Accessories,West,Small Business,6.0,2174.33,13045.95,
+ORD-10253,2025-05-22,Laptop,Electronics,South,Small Business,4.0,73776.19,295104.77,0.0
+ORD-10254,2025-06-07,Laptop,Electronics,North,Enterprise,6.0,71747.15,430482.88,0.1
+ORD-10255,2025-03-16,Phone,Electronics,Central,Small Business,8.0,30096.8,240774.37,0.1
+ORD-10256,2025-04-08,Keyboard,Accessories,Central,Enterprise,6.0,1411.12,8466.7,0.05
+ORD-10257,2025-08-30,Keyboard,Accessories,East,Retail,6.0,1456.41,8738.48,0.15
+ORD-10258,2025-03-31,Monitor,Electronics,East,Retail,5.0,14026.57,70132.87,0.15
+ORD-10259,2025-05-06,Headphones,Accessories,East,Retail,3.0,2139.38,6418.15,0.0
+ORD-10260,2025-02-05,Keyboard,Accessories,West,Enterprise,1.0,1575.37,1575.37,0.15
+ORD-10261,2025-08-06,Phone,Electronics,,Retail,1.0,26542.99,26542.99,0.15
+ORD-10262,2025-09-04,Mouse,Accessories,,Retail,7.0,646.8,4527.62,0.0
+ORD-10263,2025-03-17,Mouse,Accessories,South,Retail,3.0,624.12,1872.35,0.15
+ORD-10264,2025-09-17,Mouse,Accessories,East,Small Business,8.0,637.53,5100.24,0.15
+ORD-10265,2025-07-21,Keyboard,Accessories,South,Retail,8.0,1549.53,12396.22,0.15
+ORD-10266,2025-05-21,Laptop,Electronics,South,Small Business,3.0,74284.5,222853.51,0.15
+ORD-10267,2025-07-09,Monitor,Electronics,Central,Enterprise,1.0,12125.23,12125.23,0.15
+ORD-10268,2025-08-17,Headphones,Accessories,Central,Retail,4.0,2487.72,9950.87,0.05
+ORD-10269,2025-04-30,Mouse,Accessories,West,Enterprise,5.0,697.86,3489.32,0.05
+ORD-10270,2025-09-15,Keyboard,Accessories,Central,Retail,2.0,1685.7,3371.4,0.2
+ORD-10271,2025-09-27,Mouse,Accessories,West,Retail,8.0,751.45,6011.59,0.15
+ORD-10272,2025-07-08,Laptop,Electronics,South,Small Business,4.0,64150.82,256603.27,0.15
+ORD-10273,2025-05-05,Monitor,Electronics,East,Small Business,3.0,11591.78,34775.34,0.1
+ORD-10274,2025-03-20,Phone,Electronics,Central,Small Business,,30654.87,61309.74,0.0
+ORD-10275,2025-05-03,Headphones,Accessories,West,Retail,1.0,2091.85,2091.85,0.2
+ORD-10276,2025-06-13,Phone,Electronics,North,Retail,2.0,30304.42,60608.84,0.05
+ORD-10277,2025-09-13,Headphones,Accessories,North,Retail,8.0,1997.11,15976.88,0.1
+ORD-10278,2025-03-20,Headphones,Accessories,Central,Small Business,5.0,2485.71,12428.57,0.0
+ORD-10279,2025-03-09,Mouse,Accessories,South,Small Business,2.0,761.05,1522.11,0.2
+ORD-10280,2025-07-11,Phone,Electronics,Central,Small Business,6.0,24739.5,148436.98,0.0
+ORD-10281,2025-03-07,Laptop,Electronics,East,Retail,4.0,66017.61,264070.42,0.15
+ORD-10282,2025-01-07,Keyboard,Accessories,Central,Retail,6.0,1721.42,10328.51,0.1
+ORD-10283,2025-02-01,Laptop,Electronics,Central,Retail,1.0,69442.94,69442.94,
+ORD-10284,2025-02-26,Phone,Electronics,North,Small Business,4.0,27368.13,109472.5,0.15
+ORD-10285,2025-07-03,Keyboard,Accessories,Central,Enterprise,3.0,1629.36,4888.08,0.2
+ORD-10286,2025-03-05,Mouse,Accessories,,Enterprise,4.0,662.52,2650.1,0.2
+ORD-10287,2025-03-14,Phone,Electronics,North,Small Business,4.0,31301.46,125205.84,
+ORD-10288,2025-03-25,Mouse,Accessories,East,Retail,1.0,627.24,627.24,0.0
+ORD-10289,2025-01-24,Monitor,Electronics,East,Enterprise,1.0,10626.95,10626.95,0.15
+ORD-10290,2025-07-21,Laptop,Electronics,Central,Small Business,1.0,67969.02,67969.02,0.0
+ORD-10291,2025-03-14,Laptop,Electronics,Central,Small Business,2.0,72035.62,144071.24,0.1
+ORD-10292,2025-04-25,Headphones,Accessories,South,Small Business,7.0,1931.22,13518.53,0.15
+ORD-10293,2025-02-24,Monitor,Electronics,East,Small Business,3.0,13446.23,40338.7,0.15
+ORD-10294,2025-04-22,Keyboard,Accessories,South,Small Business,4.0,1440.56,5762.23,0.05
+ORD-10295,2025-07-25,Monitor,Electronics,North,Small Business,7.0,11070.91,77496.4,0.0
+ORD-10296,2025-01-17,Laptop,Electronics,South,Enterprise,2.0,71300.6,142601.2,0.2
+ORD-10297,2025-02-18,Mouse,Accessories,East,Enterprise,2.0,732.24,1464.49,0.05
+ORD-10298,2025-09-16,Phone,Electronics,Central,Small Business,8.0,31995.0,255960.03,0.0
+ORD-10299,2025-09-13,Monitor,Electronics,South,Retail,2.0,13085.28,26170.55,0.15
+ORD-10300,2025-04-14,Laptop,Electronics,Central,Small Business,5.0,65992.72,329963.6,0.15
+ORD-10301,2025-09-09,Headphones,Accessories,West,Small Business,1.0,1902.64,1902.64,0.1
+ORD-10302,2025-03-11,Monitor,Electronics,West,Retail,3.0,12194.96,36584.88,0.2
+ORD-10303,2025-07-23,Headphones,Accessories,South,Retail,5.0,2124.34,10621.72,0.1
+ORD-10304,2025-06-22,Laptop,Electronics,West,Enterprise,3.0,66249.86,198749.57,0.0
+ORD-10305,2025-06-11,Headphones,Accessories,Central,Enterprise,1.0,2010.1,2010.1,0.15
+ORD-10306,2025-01-26,Keyboard,Accessories,East,Enterprise,2.0,1675.62,3351.24,0.1
+ORD-10307,2025-04-02,Mouse,Accessories,South,Small Business,8.0,607.49,4859.94,0.1
+ORD-10308,2025-01-08,Headphones,Accessories,South,Enterprise,2.0,2318.49,4636.98,0.0
+ORD-10309,2025-05-21,Headphones,Accessories,North,Retail,2.0,2149.0,4298.01,0.0
+ORD-10310,2025-04-03,Monitor,Electronics,South,Retail,7.0,11826.49,82785.43,0.0
+ORD-10311,2025-09-08,Monitor,Electronics,West,Small Business,3.0,11618.03,34854.08,0.05
+ORD-10312,2025-07-08,Keyboard,Accessories,North,Enterprise,8.0,1693.35,13546.8,0.0
+ORD-10313,2025-04-20,Laptop,Electronics,North,Retail,1.0,67331.6,67331.6,0.2
+ORD-10314,2025-07-06,Mouse,Accessories,East,Retail,7.0,767.16,5370.12,0.2
+ORD-10315,2025-01-17,Headphones,Accessories,South,Small Business,1.0,2134.83,2134.83,0.2
+ORD-10316,2025-09-07,Laptop,Electronics,North,Enterprise,5.0,70970.72,354853.62,0.2
+ORD-10317,2025-03-20,Phone,Electronics,Central,Enterprise,4.0,27946.85,111787.38,0.05
+ORD-10318,2025-05-07,Keyboard,Accessories,North,Small Business,,1538.14,6152.55,0.05
+ORD-10319,2025-08-04,Phone,Electronics,Central,Retail,2.0,24667.58,49335.16,0.1
+ORD-10320,2025-04-29,Monitor,Electronics,East,Enterprise,3.0,12157.51,36472.53,0.15
+ORD-10321,2025-07-17,Headphones,Accessories,South,Enterprise,8.0,2485.63,19885.08,0.05
+ORD-10322,2025-04-14,Phone,Electronics,East,Retail,4.0,28570.65,114282.59,0.15
+ORD-10323,2025-09-19,Headphones,Accessories,South,Retail,5.0,2081.67,10408.36,0.05
+ORD-10324,2025-05-16,Monitor,Electronics,West,Enterprise,1.0,11247.73,11247.73,0.05
+ORD-10325,2025-07-24,Mouse,Accessories,West,Small Business,2.0,713.16,1426.32,0.05
+ORD-10326,2025-02-18,Monitor,Electronics,East,Retail,7.0,14103.14,98722.0,0.15
+ORD-10327,2025-08-17,Mouse,Accessories,South,Retail,1.0,793.56,793.56,0.2
+ORD-10328,2025-06-16,Mouse,Accessories,North,Enterprise,5.0,595.97,2979.85,0.15
+ORD-10329,2025-04-01,Mouse,Accessories,West,Retail,5.0,600.57,3002.86,0.2
+ORD-10330,2025-05-03,laptop ,Electronics,North,Small Business,4.0,27712.36,110849.45,0.15
+ORD-10331,2025-09-24,Mouse,Accessories,South,Enterprise,3.0,779.54,2338.62,0.1
+ORD-10332,2025-04-28,Laptop,Electronics,West,Retail,3.0,58381.47,175144.42,0.1
+ORD-10333,2025-01-21,Phone,Electronics,Central,Enterprise,5.0,31909.49,159547.47,0.2
+ORD-10334,2025-09-17,Mouse,Accessories,Central,Small Business,2.0,719.8,1439.59,0.05
+ORD-10335,2025-05-17,Laptop,Electronics,East,Retail,1.0,71063.78,71063.78,0.1
+ORD-10336,2025-09-03,Monitor,Electronics,East,Enterprise,8.0,12902.04,103216.34,0.05
+ORD-10337,2025-08-26,Laptop,Electronics,West,Retail,4.0,57558.78,230235.13,0.2
+ORD-10338,2025-07-17,Laptop,Electronics,Central,Retail,3.0,61174.03,183522.1,0.0
+ORD-10339,2025-04-28,Mouse,Accessories,West,Small Business,5.0,692.37,3461.86,0.0
+ORD-10340,2025-08-02,Monitor,Electronics,West,Retail,6.0,12037.75,72226.52,0.0
+ORD-10341,2025-09-09,Monitor,Electronics,South,Small Business,4.0,12583.44,50333.76,0.0
+ORD-10342,2025-02-20,Monitor,Electronics,North,Small Business,2.0,11915.53,23831.06,0.2
+ORD-10343,2025-04-23,Phone,Electronics,Central,Retail,4.0,30595.34,122381.38,0.0
+ORD-10344,2025-08-27,Monitor,Electronics,West,Small Business,6.0,13892.78,83356.7,0.1
+ORD-10345,2025-02-25,Laptop,Electronics,East,Small Business,4.0,55950.03,223800.11,0.2
+ORD-10346,2025-02-24,Headphones,Accessories,West,Small Business,8.0,1896.66,15173.31,0.05
+ORD-10347,2025-03-25,Monitor,Electronics,Central,Enterprise,8.0,10794.18,86353.44,0.2
+ORD-10348,2025-01-02,Mouse,Accessories,,Enterprise,1.0,607.56,607.56,0.0
+ORD-10349,2025-08-24,Keyboard,Accessories,East,Enterprise,5.0,1687.09,8435.43,0.05
+ORD-10350,2025-02-16,Keyboard,Accessories,Central,Retail,4.0,1303.4,5213.61,
+ORD-10351,2025-02-23,Keyboard,Accessories,Central,Retail,2.0,1403.72,2807.44,0.0
+ORD-10352,2025-05-27,Keyboard,Accessories,Central,Retail,7.0,1593.53,11154.71,0.2
+ORD-10353,2025-06-19,Monitor,Electronics,North,Enterprise,7.0,14162.68,99138.79,0.15
+ORD-10354,2025-09-18,Phone,Electronics,Central,Retail,5.0,28365.36,141826.81,0.2
+ORD-10355,2025-05-04,Headphones,Accessories,East,Enterprise,6.0,2188.74,13132.44,0.05
+ORD-10356,2025-01-31,Phone,Electronics,North,Enterprise,3.0,27088.66,81265.97,0.0
+ORD-10357,2025-02-22,Monitor,Electronics,Central,Enterprise,7.0,12297.77,86084.41,0.15
+ORD-10358,2025-08-21,Laptop,Electronics,South,Retail,1.0,58321.71,58321.71,0.2
+ORD-10359,2025-06-29,Keyboard,Accessories,Central,Enterprise,2.0,1507.09,3014.18,0.2
+ORD-10360,2025-04-06,Laptop,Electronics,North,Enterprise,2.0,56207.79,112415.59,0.0
+ORD-10361,2025-04-09,Laptop,Electronics,Central,Retail,2.0,66337.11,132674.22,0.1
+ORD-10362,2025-05-18,Monitor,Electronics,Central,Enterprise,6.0,11382.0,68292.01,0.15
+ORD-10363,2025-02-04,Monitor,Electronics,South,Retail,7.0,14183.16,99282.13,0.0
+ORD-10364,2025-06-17,Headphones,Accessories,Central,Enterprise,2.0,2158.98,4317.95,0.05
+ORD-10365,2025-04-25,Phone,Electronics,,Small Business,7.0,28340.0,198380.03,0.05
+ORD-10366,2025-02-13,Phone,Electronics,East,Enterprise,6.0,29451.97,176711.81,0.05
+ORD-10367,2025-07-13,Keyboard,Accessories,Central,Enterprise,6.0,1350.99,8105.96,0.0
+ORD-10368,2025-05-24,Keyboard,Accessories,East,Retail,1.0,1498.94,1498.94,0.1
+ORD-10369,2025-01-27,Mouse,Accessories,East,Small Business,4.0,803.91,3215.64,0.1
+ORD-10370,2025-07-18,Mouse,Accessories,East,Retail,4.0,609.03,2436.13,0.05
+ORD-10371,2025-06-11,Keyboard,Accessories,Central,Retail,6.0,1297.88,7787.25,0.1
+ORD-10372,2025-07-13,Headphones,Accessories,North,Enterprise,8.0,2183.87,17470.96,0.2
+ORD-10373,2025-09-01,Keyboard,Accessories,East,Small Business,6.0,1626.79,9760.74,0.15
+ORD-10374,2025-03-23,Phone,Electronics,South,Small Business,7.0,29100.95,203706.65,0.15
+ORD-10375,2025-07-10,Keyboard,Accessories,South,Small Business,6.0,1707.26,10243.58,0.1
+ORD-10376,2025-01-13,Monitor,Electronics,West,Small Business,7.0,12521.61,87651.26,
+ORD-10377,2025-04-05,Monitor,Electronics,North,Small Business,2.0,13419.51,26839.03,0.0
+ORD-10378,2025-03-02,Headphones,Accessories,Central,Enterprise,6.0,2363.2,14179.19,0.05
+ORD-10379,2025-08-05,Monitor,Electronics,North,Retail,1.0,14210.17,14210.17,0.0
+ORD-10380,2025-02-21,Headphones,Accessories,Central,Enterprise,3.0,2219.4,6658.19,0.15
+ORD-10381,2025-07-22,Phone,Electronics,South,Enterprise,6.0,25271.52,151629.1,0.1
+ORD-10382,2025-03-09,Keyboard,Accessories,South,Small Business,2.0,1398.04,2796.09,0.0
+ORD-10383,2025-02-10,Keyboard,Accessories,North,Small Business,5.0,1592.26,7961.31,0.1
+ORD-10384,2025-01-30,Phone,Electronics,Central,Retail,7.0,30083.12,210581.82,0.1
+ORD-10385,2025-04-02,Headphones,Accessories,South,Retail,7.0,2028.9,14202.28,0.0
+ORD-10386,2025-07-14,Phone,Electronics,South,Enterprise,4.0,27093.3,108373.22,
+ORD-10387,2025-04-09,Phone,Electronics,North,Retail,3.0,26091.56,78274.67,0.1
+ORD-10388,2025-09-01,Keyboard,Accessories,South,Small Business,3.0,1441.17,4323.52,0.15
+ORD-10389,2025-06-19,Laptop,Electronics,West,Retail,8.0,64959.67,519677.37,0.2
+ORD-10390,2025-04-30,Monitor,Electronics,Central,Enterprise,8.0,12925.69,103405.49,0.2
+ORD-10391,2025-07-25,Monitor,Electronics,North,Enterprise,7.0,12353.49,86474.45,0.0
+ORD-10392,2025-05-13,Monitor,Electronics,East,Small Business,4.0,12478.68,49914.72,0.1
+ORD-10393,2025-09-25,Keyboard,Accessories,North,Enterprise,5.0,1651.48,8257.38,0.05
+ORD-10394,2025-07-28,Phone,Electronics,Central,Enterprise,7.0,,216452.81,0.2
+ORD-10395,2025-02-04,Laptop,Electronics,East,Enterprise,8.0,61379.78,491038.28,0.05
+ORD-10396,2025-04-27,Keyboard,Accessories,South,Enterprise,5.0,1697.46,8487.31,0.1
+ORD-10397,2025-03-02,Monitor,Electronics,North,Enterprise,3.0,11261.75,33785.25,0.0
+ORD-10398,2025-01-17,Monitor,Electronics,Central,Retail,8.0,12135.8,97086.39,0.15
+ORD-10399,2025-03-02,Keyboard,Accessories,Central,Enterprise,2.0,1353.96,2707.92,0.05
+ORD-10400,2025-03-22,Mouse,Accessories,West,Enterprise,8.0,624.41,4995.29,0.2
+ORD-10401,2025-04-03,Headphones,Accessories,Central,Small Business,2.0,2052.3,4104.59,0.05
+ORD-10402,2025-07-08,Laptop,Electronics,South,Enterprise,4.0,63684.05,254736.22,0.15
+ORD-10403,2025-07-19,Monitor,Electronics,Central,Enterprise,,12043.69,84305.85,0.05
+ORD-10404,2025-04-09,Keyboard,Accessories,Central,Enterprise,1.0,1532.03,1532.03,0.0
+ORD-10405,2025-07-16,Phone,Electronics,Central,Enterprise,2.0,28158.88,56317.77,0.0
+ORD-10406,2025-02-12,Laptop,Electronics,South,Retail,4.0,69817.98,279271.91,0.0
+ORD-10407,2025-04-28,Phone,Electronics,East,Enterprise,2.0,27244.41,54488.82,0.2
+ORD-10408,2025-02-06,Monitor,Electronics,Central,Retail,6.0,13214.01,79284.04,0.1
+ORD-10409,2025-01-20,Monitor,Electronics,South,Enterprise,4.0,14087.55,56350.2,0.15
+ORD-10410,2025-04-22,Laptop,Electronics,East,Retail,7.0,57156.87,400098.06,0.05
+ORD-10411,2025-03-06,Phone,Electronics,South,Retail,2.0,27696.16,55392.31,0.15
+ORD-10412,2025-06-21,Phone,Electronics,South,Small Business,8.0,30542.85,244342.82,0.05
+ORD-10413,2025-01-07,Laptop,Electronics,Central,Small Business,3.0,57883.24,173649.73,0.1
+ORD-10414,2025-06-20,Mouse,Accessories,South,Retail,2.0,772.8,1545.6,0.0
+ORD-10415,2025-04-28,Laptop,Electronics,West,Retail,2.0,67715.38,135430.76,0.05
+ORD-10416,2025-03-09,Headphones,Accessories,Central,Retail,8.0,2431.66,19453.26,0.05
+ORD-10417,2025-05-27,Monitor,Electronics,South,Retail,1.0,13877.84,13877.84,0.15
+ORD-10418,2025-02-02,Monitor,Electronics,West,Retail,7.0,11106.1,77742.7,0.2
+ORD-10419,2025-01-16,Laptop,Electronics,Central,Retail,6.0,63853.84,383123.06,0.1
+ORD-10420,2025-02-13,Mouse,Accessories,West,Small Business,6.0,767.31,4603.84,0.05
+ORD-10421,2025-03-25,Headphones,Accessories,East,Enterprise,1.0,2027.3,2027.3,0.1
+ORD-10422,2025-08-13,Monitor,Electronics,West,Enterprise,5.0,12106.63,60533.16,0.2
+ORD-10423,2025-03-20,Keyboard,Accessories,West,Retail,2.0,1606.44,3212.87,0.1
+ORD-10424,2025-05-03,Keyboard,Accessories,Central,Retail,,1632.85,3265.71,0.15
+ORD-10425,2025-04-16,Keyboard,Accessories,South,Small Business,8.0,1717.88,13743.07,0.15
+ORD-10426,2025-03-01,Monitor,Electronics,North,Small Business,4.0,14324.86,57299.43,0.1
+ORD-10427,2025-05-20,Monitor,Electronics,West,Small Business,8.0,11690.19,93521.54,0.05
+ORD-10428,2025-07-30,Monitor,Electronics,South,Retail,8.0,13938.24,111505.9,0.15
+ORD-10429,2025-03-21,Phone,Electronics,West,Enterprise,3.0,28893.45,86680.34,0.2
+ORD-10430,2025-09-05,Mouse,Accessories,West,Retail,1.0,641.23,641.23,0.1
+ORD-10431,2025-05-03,Monitor,Electronics,South,Enterprise,4.0,10832.04,43328.15,0.2
+ORD-10432,2025-04-23,Keyboard,Accessories,Central,Enterprise,1.0,1453.4,1453.4,0.0
+ORD-10433,2025-05-22,Headphones,Accessories,Central,Retail,6.0,2040.02,12240.15,0.15
+ORD-10434,2025-05-28,Keyboard,Accessories,East,Small Business,8.0,1372.17,10977.33,0.15
+ORD-10435,2025-04-21,Keyboard,Accessories,North,Small Business,2.0,1378.84,2757.67,0.2
+ORD-10436,2025-04-11,Headphones,Accessories,West,Enterprise,6.0,2289.47,13736.82,0.1
+ORD-10437,2025-01-17,Laptop,Electronics,West,Retail,4.0,64015.88,256063.51,0.05
+ORD-10438,2025-01-16,Laptop,Electronics,South,Enterprise,8.0,71079.17,568633.37,0.1
+ORD-10439,2025-02-15,Laptop,Electronics,Central,Enterprise,2.0,74210.75,148421.5,0.2
+ORD-10440,2025-03-20,Keyboard,Accessories,South,Retail,3.0,1351.11,4053.33,0.0
+ORD-10441,2025-01-17,Phone,Electronics,Central,Retail,1.0,24398.96,24398.96,0.0
+ORD-10442,2025-07-18,Laptop,Electronics,East,Retail,2.0,71381.46,142762.93,0.15
+ORD-10443,2025-03-25,Laptop,Electronics,West,Small Business,6.0,72452.41,434714.48,0.1
+ORD-10444,2025-07-10,Mouse,Accessories,South,Retail,6.0,688.95,4133.71,0.1
+ORD-10445,2025-07-30,Laptop,Electronics,South,Small Business,2.0,70783.15,141566.3,0.0
+ORD-10446,2025-07-06,Keyboard,Accessories,South,Enterprise,2.0,1653.93,3307.86,0.15
+ORD-10447,2025-08-27,Monitor,Electronics,West,Retail,7.0,10916.54,76415.8,0.05
+ORD-10448,2025-06-25,Keyboard,Accessories,Central,Retail,2.0,1585.01,3170.01,0.05
+ORD-10449,2025-04-02,Mouse,Accessories,East,Retail,5.0,655.87,3279.33,0.15
+ORD-10450,2025-09-07,Headphones,Accessories,North,Retail,5.0,2281.54,11407.7,0.15
+ORD-10451,2025-06-14,Monitor,Electronics,North,Enterprise,6.0,13184.71,79108.23,0.1
+ORD-10452,2025-09-26,Laptop,Electronics,South,Retail,4.0,56940.87,227763.5,0.1
+ORD-10453,2025-08-17,Keyboard,Accessories,Central,Small Business,6.0,1381.68,8290.07,0.1
+ORD-10454,2025-05-26,Laptop,Electronics,East,Retail,7.0,64464.84,451253.89,
+ORD-10455,2025-09-16,Keyboard,Accessories,East,Small Business,8.0,1496.32,11970.53,0.15
+ORD-10456,2025-04-21,Mouse,Accessories,East,Enterprise,6.0,610.09,3660.53,0.1
+ORD-10457,2025-05-31,Monitor,Electronics,East,Enterprise,8.0,12475.65,99805.2,0.2
+ORD-10458,2025-04-26,Monitor,Electronics,South,Retail,4.0,11303.32,45213.27,0.0
+ORD-10459,2025-04-09,Monitor,Electronics,West,Small Business,1.0,12244.8,12244.8,0.15
+ORD-10460,2025-09-21,Keyboard,Accessories,North,Retail,1.0,1531.49,1531.49,0.2
+ORD-10461,2025-02-22,Mouse,Accessories,South,Small Business,2.0,726.59,1453.19,0.15
+ORD-10462,2025-02-11,Phone,Electronics,South,Retail,4.0,30181.0,120724.01,0.2
+ORD-10463,2025-05-13,Mouse,Accessories,Central,Small Business,5.0,753.78,3768.9,0.2
+ORD-10464,2025-04-05,Keyboard,Accessories,South,Enterprise,2.0,1404.1,2808.2,0.05
+ORD-10465,2025-01-03,Monitor,Electronics,Central,Retail,5.0,14350.71,71753.55,0.1
+ORD-10466,2025-04-19,Headphones,Accessories,Central,Retail,6.0,2437.58,14625.48,0.05
+ORD-10467,2025-03-02,Headphones,Accessories,South,Enterprise,5.0,2419.67,12098.36,0.1
+ORD-10468,2025-09-06,Phone,Electronics,Central,Small Business,8.0,32074.39,256595.14,0.15
+ORD-10469,2025-06-21,Mouse,Accessories,East,,3.0,662.38,1987.14,0.1
+ORD-10470,2025-04-22,Phone,Electronics,East,Enterprise,5.0,29148.03,145740.15,0.15
+ORD-10471,2025-05-23,Keyboard,Accessories,North,Small Business,3.0,1423.8,4271.41,0.0
+ORD-10472,2025-01-16,Monitor,Electronics,South,Retail,7.0,12298.56,86089.91,0.15
+ORD-10473,2025-09-21,Mouse,Accessories,South,Retail,5.0,599.44,2997.21,0.0
+ORD-10474,2025-07-05,Phone,Electronics,North,Retail,6.0,26110.26,156661.56,0.0
+ORD-10475,2025-01-07,Mouse,Accessories,Central,Retail,5.0,599.56,2997.81,0.0
+ORD-10476,2025-07-02,Monitor,Electronics,East,Small Business,5.0,12292.58,61462.9,0.0
+ORD-10477,2025-02-04,Headphones,Accessories,North,Small Business,7.0,2459.41,17215.9,0.0
+ORD-10478,2025-07-04,Monitor,Electronics,North,Enterprise,8.0,12685.6,101484.81,0.05
+ORD-10479,2025-02-23,Keyboard,Accessories,East,Enterprise,6.0,1601.17,9607.01,0.2
+ORD-10480,2025-09-06,Mouse,Accessories,East,Enterprise,4.0,658.06,2632.23,0.05
+ORD-10481,2025-01-29,Keyboard,Accessories,South,Small Business,2.0,1295.68,2591.37,0.15
+ORD-10482,2025-05-27,Headphones,Accessories,West,Retail,1.0,2159.86,2159.86,0.15
+ORD-10483,2025-03-01,Monitor,Electronics,West,Retail,7.0,13664.45,95651.14,0.0
+ORD-10484,2025-07-07,Mouse,Accessories,South,Retail,4.0,721.72,2886.86,0.0
+ORD-10485,2025-02-13,Mouse,Accessories,East,Retail,2.0,690.53,1381.06,0.0
+ORD-10486,2025-04-28,Laptop,Electronics,South,Small Business,7.0,73300.89,513106.23,0.2
+ORD-10487,2025-05-20,Monitor,Electronics,Central,Small Business,1.0,14093.61,14093.61,0.0
+ORD-10488,2025-02-22,Mouse,Accessories,Central,Retail,7.0,,5591.2,0.2
+ORD-10489,2025-01-19,Phone,Electronics,Central,Retail,5.0,24456.51,122282.56,
+ORD-10490,2025-06-22,Mouse,Accessories,East,Small Business,5.0,682.62,3413.12,0.0
+ORD-10491,2025-07-09,Monitor,Electronics,West,Retail,6.0,10906.31,65437.89,0.2
+ORD-10492,2025-05-28,Monitor,Electronics,South,Enterprise,4.0,12536.86,50147.46,0.2
+ORD-10493,2025-09-19,Laptop,Electronics,North,Small Business,6.0,62445.28,374671.66,0.05
+ORD-10494,2025-05-21,Keyboard,Accessories,West,Retail,4.0,1699.16,6796.62,0.05
+ORD-10495,2025-02-23,Mouse,Accessories,Central,Enterprise,7.0,674.42,4720.95,0.05
+ORD-10496,2025-02-03,Monitor,Electronics,South,Retail,5.0,14100.01,70500.07,0.15
+ORD-10497,2025-05-02,Monitor,Electronics,North,Enterprise,8.0,11189.74,89517.95,0.15
+ORD-10498,2025-04-23,Mouse,Accessories,East,Enterprise,3.0,609.96,1829.88,0.15
+ORD-10499,2025-01-07,Laptop,Electronics,Central,Enterprise,3.0,61783.41,185350.24,0.1
+ORD-10500,2025-08-05,Phone,Electronics,Central,Retail,7.0,27549.67,192847.7,0.15
+ORD-10501,2025-07-06,Phone,Electronics,East,Retail,1.0,31234.78,31234.78,0.0
+ORD-10502,2025-02-05,Phone,Electronics,North,Small Business,2.0,29575.29,59150.57,0.05
+ORD-10503,2025-07-06,Headphones,Accessories,East,Small Business,2.0,2161.11,4322.22,0.1
+ORD-10504,2025-07-05,Phone,Electronics,West,Retail,3.0,24069.17,72207.5,0.05
+ORD-10505,2025-04-22,Phone,Electronics,North,Small Business,6.0,24712.8,148276.82,0.05
+ORD-10506,2025-07-26,Headphones,Accessories,Central,Retail,4.0,2130.09,8520.35,0.05
+ORD-10507,2025-02-09,Mouse,Accessories,North,Small Business,5.0,719.64,3598.19,0.1
+ORD-10508,2025-07-19,Keyboard,Accessories,North,,3.0,1464.58,4393.73,0.15
+ORD-10509,2025-09-22,Mouse,Accessories,West,Retail,8.0,599.68,4797.41,0.15
+ORD-10510,2025-05-16,Mouse,Accessories,West,Retail,3.0,760.39,2281.16,0.2
+ORD-10511,2025-04-09,Mouse,Accessories,East,Enterprise,8.0,603.89,4831.14,0.1
+ORD-10512,2025-01-25,Monitor,Electronics,Central,Retail,2.0,11886.07,23772.14,0.0
+ORD-10513,2025-05-19,Laptop,Electronics,South,Retail,4.0,71681.77,286727.06,0.1
+ORD-10514,2025-01-06,Laptop,Electronics,North,Retail,8.0,64510.1,516080.79,0.0
+ORD-10515,2025-08-01,Keyboard,Accessories,,Retail,8.0,1394.61,11156.91,0.0
+ORD-10516,2025-07-17,Monitor,Electronics,East,Enterprise,4.0,14112.9,56451.58,0.2
+ORD-10517,2025-07-16,Mouse,Accessories,Central,Retail,3.0,700.95,2102.86,0.1
+ORD-10518,2025-08-21,Laptop,Electronics,South,Retail,3.0,71931.77,215795.31,0.1
+ORD-10519,2025-07-10,Mouse,Accessories,South,Retail,8.0,634.16,5073.29,0.0
+ORD-10012,2025-08-13,Phone,Electronics,North,Enterprise,6.0,24973.92,149843.53,0.0
+ORD-10039,2025-07-17,Laptop,Electronics,West,Enterprise,3.0,68108.74,204326.22,0.15
+ORD-10085,2025-02-15,Keyboard,Accessories,Central,Small Business,2.0,1706.5,3412.99,0.1
+ORD-10112,2025-01-02,Monitor,Electronics,North,Retail,1.0,12936.16,12936.16,0.2
+ORD-10205,2025-02-05,Keyboard,Accessories,South,Small Business,1.0,1542.56,1542.56,0.15
+ORD-10310,2025-04-03,Monitor,Electronics,South,Retail,7.0,11826.49,82785.43,0.0
+ORD-10400,2025-03-22,Mouse,Accessories,West,Enterprise,8.0,624.41,4995.29,0.2
